@@ -37,8 +37,8 @@
     <p>
     <center><h2> <em> <b>Habrian muchas formas de explicar el porque, pero en estas siguientes diapositivas podras saberlo.  </b> </em></h2> </center>
     </p>
-    <a href="https://n9.cl/attrv" target="_blank" class="enlace-posicionado">
-        <img src="https://n9.cl/attrv" alt="DALE CLICK AL ENLACE SI DESEAS SABER ¿POR QUÉ TE AMO?" width="800" height="800">
+    <a href="https://www.canva.com/design/DAF7M-bF650/XuzC5ME_MXvqEh-_O9Iliw/view?utm_content=DAF7M-bF650&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" target="_blank" class="enlace-posicionado">
+        <img src="https://www.canva.com/design/DAF7M-bF650/XuzC5ME_MXvqEh-_O9Iliw/view?utm_content=DAF7M-bF650&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" alt="DALE CLICK AL ENLACE SI DESEAS SABER ¿POR QUÉ TE AMO?" width="800" height="800">
     </a>
     <!-- Texto de aniversario -->
     <div class="mensaje-aniversario">
